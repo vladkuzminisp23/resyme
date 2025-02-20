@@ -7,3 +7,4 @@
 | создание тг бота 👻 |
 | ----------------- |
 | https://colab.research.google.com/drive/14n_2QzyAChUpcHTbupywFNAMr_w36vW8?usp=sharing |
+| https://colab.research.google.com/drive/1sbSw0C07i_8r0NfAnGybgLBPbfmYCWNG |
