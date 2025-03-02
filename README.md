@@ -10,8 +10,8 @@
 ---
 | Траектория будущего 👻 |
 | ----------------- |
-| https://drive.google.com/drive/folders/1mGSJzaxac_QW8L222rJcDXF87AUZm2RK?usp=drive_link | - сертификаты
-| https://drive.google.com/drive/folders/1D6R82yJLz6Rz6VVr5CIWE7Ve80isUv9G?usp=drive_link | - полуфинал
+| https://drive.google.com/drive/folders/1mGSJzaxac_QW8L222rJcDXF87AUZm2RK?usp=drive_link - сертификаты | 
+| https://drive.google.com/drive/folders/1D6R82yJLz6Rz6VVr5CIWE7Ve80isUv9G?usp=drive_link - полуфинал | 
 ---
 | Организация корпоративной сети 👻 |
 | ----------------- |
