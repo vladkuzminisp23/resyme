@@ -25,7 +25,8 @@
 | ----------------- |
 | https://drive.google.com/drive/folders/1DKPCMn2Omox8WjV-SPdWcfY667uhzibV?usp=drive_link |
 ---
-| диаграмма тг бот 👻 |
+| тг бот конкурсы 👻 |
 | ----------------- |
-| https://drive.google.com/file/d/1D1UY-_rAfh7T1HIUf8zImWsoFiSD2PgQ/view?usp=drive_link |
+| https://drive.google.com/file/d/1D1UY-_rAfh7T1HIUf8zImWsoFiSD2PgQ/view?usp=drive_link - диаграмма |
+| https://docs.google.com/document/d/14mXIamLtIf_i5saQYp9xpdgriLlRZVc-JwpIL34YvmQ/edit?tab=t.0 - конспект |
 ---
